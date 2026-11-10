@@ -227,7 +227,7 @@
       </if>
     </choose>
   </macro>
-  <<macro name="pages">
+  <macro name="pages">
   <choose>
     <if type="thesis report" match="any">
       <choose>
